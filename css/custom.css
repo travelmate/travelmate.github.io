@@ -15,8 +15,10 @@
     font-family: 'thirsty_script_extrabold_deRg';
 }
 
-.iphone {
-    margin-top: -260px;
+@media only screen and (min-width:1200px) { 
+    .iphone {
+        margin-top: -260px;
+    }
 }
 
 .wordmark {
